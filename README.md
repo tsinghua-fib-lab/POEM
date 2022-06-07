@@ -1,2 +1,2 @@
 # POEM
-PyTorch implementation of our paper in KDD 2022, "Modeling the Effect of Persuasion Factor on User Decision for Recommendation".
+The official PyTorch implementation of "Modeling the Effect of Persuasion Factor on User Decision for Recommendation" (SIGKDD'22).
